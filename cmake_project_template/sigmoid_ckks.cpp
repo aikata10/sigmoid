@@ -17,7 +17,7 @@ SigmoidCKKS::SigmoidCKKS(std::string ccLocation, std::string pubKeyLocation, std
 
 void SigmoidCKKS::initCC()
 {
-    if (!Serial::DeserializeFromFile(m_CCLocation, m_cc, SerType::BINARY))
+    if (!Serial::DeserializeFromFile(m_CCLocation, m_cc, SerType::JSON))
     {
         std::cerr << "Could not deserialize cryptocontext file" << std::endl;
         std::exit(1);
