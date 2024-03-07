@@ -1,0 +1,3 @@
+/home/aikata/Documents/FHERMA/sigmoid_t5/cmake_project_template/CMakeFiles/app.dir
+/home/aikata/Documents/FHERMA/sigmoid_t5/cmake_project_template/CMakeFiles/edit_cache.dir
+/home/aikata/Documents/FHERMA/sigmoid_t5/cmake_project_template/CMakeFiles/rebuild_cache.dir
